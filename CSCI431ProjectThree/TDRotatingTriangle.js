@@ -1,8 +1,6 @@
-// Computer Science
-// CSCI 431 - Computer Graphics  
 // Project 3
 // Date: 2/9/2024
-// Author: Taylor Davis
+
 
 
 var gl;
