@@ -1,9 +1,5 @@
-// Fort Hays State University
-// Computer Science
-// CSCI 431 - Computer Graphics  
 // Project 2
 // Date: 1/25/2024
-// Author: Taylor Davis
 // This Javascript program will draw the Sierpinsky Triangle
 // Gasket2
 
