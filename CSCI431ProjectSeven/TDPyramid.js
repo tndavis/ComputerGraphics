@@ -1,7 +1,4 @@
-// Computer Science
-// CSCI 431 - Computer Graphics  
 // Project 7
-// Author: Taylor Davis
 
 var canvas;
 var gl;
