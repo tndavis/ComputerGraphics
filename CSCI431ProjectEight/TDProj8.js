@@ -1,4 +1,3 @@
-// Author: Taylor Davis
 // Date: 4/10/2024
 // Project: 8
 // Description: Problem 8.11 of the text asks to "return the colors of pixels on the display".
