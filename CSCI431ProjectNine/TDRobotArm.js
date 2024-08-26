@@ -1,4 +1,3 @@
-// Author: Taylor Davis
 // Date: 4/17/2024
 // Project: 9
 
