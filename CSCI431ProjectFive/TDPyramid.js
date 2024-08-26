@@ -1,8 +1,6 @@
-// Computer Science
-// CSCI 431 - Computer Graphics  
 // Project 5
 // Date: 3/5/2024
-// Author: Taylor Davis
+
 
 var canvas;
 var gl;
